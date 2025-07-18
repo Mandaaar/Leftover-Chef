@@ -82,7 +82,7 @@ const Hero = () => {
           {/* Stats with Food Icons */}
           <div className="flex justify-center gap-8 sm:gap-12 mt-12 text-white">
             <div className="text-center">
-              <div className="text-2xl sm:text-3xl font-bold text-yellow-400 mb-1">1000+</div>
+              <div className="text-2xl sm:text-3xl font-bold text-yellow-400 mb-1">30+</div>
               <div className="text-sm text-gray-200 flex items-center gap-1">
                 🍽️ Recipes
               </div>
