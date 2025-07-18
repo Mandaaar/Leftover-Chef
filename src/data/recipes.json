@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Pav Bhaji",
+    "mealType": "snack",
+    "weight": "heavy",
+    "ingredients": ["potato", "peas", "capsicum", "tomato", "pav", "butter"],
+    "instructions": [
+      "Step 1: Boil potatoes and peas until they’re as soft as your post-exam brain.",
+      "Step 2: Chop onions, tomatoes, and capsicum finely — or emotionally, up to you.",
+      "Step 3: Heat a giant spoon of butter in a pan and sauté the veggies like you're hosting a food vlog.",
+      "Step 4: Add bhaji masala, salt, and mash it all together like you’re erasing stress.",
+      "Step 5: Simmer with a splash of water till it becomes street-style magic.",
+      "Step 6: Toast pav with way too much butter (there's no such thing, really).",
+      "Step 7: Serve with onions, lemon, and confidence. You just made heaven on a plate."
+    ]
+  },
+  {
+    "name": "Maggi Masala",
+    "mealType": "snack",
+    "weight": "light",
+    "ingredients": ["maggi noodles", "water", "spices", "peas", "carrot"],
+    "instructions": [
+      "Step 1: Boil 1.5 cups of water like you’re on a 2-minute mission.",
+      "Step 2: Toss in chopped carrots and peas — adulting points unlocked.",
+      "Step 3: Add the noodles and that iconic Maggi masala packet.",
+      "Step 4: Stir, stare, and don’t leave the stove (betrayal happens fast).",
+      "Step 5: Cook till noodles soak up flavor. Optional: add cheese and become a legend.",
+      "Step 6: Serve hot and enjoy while judging the 2-minute cooking myth."
+    ]
+  },
+  {
+    "name": "Rajma Chawal",
+    "mealType": "lunch",
+    "weight": "heavy",
+    "ingredients": ["kidney beans", "rice", "onion", "tomato", "spices", "ginger", "garlic"],
+    "instructions": [
+      "Step 1: Soak rajma overnight — or at least till it feels like commitment.",
+      "Step 2: Pressure cook it till soft, not mushy. You want emotion, not tears.",
+      "Step 3: Sauté onion, ginger, garlic, and tomatoes in oil till they unite like a power couple.",
+      "Step 4: Add spices, then rajma. Simmer till thick and dramatic.",
+      "Step 5: Boil rice separately. Keep it fluffy, not clingy.",
+      "Step 6: Serve rajma over rice like it’s royalty. Prepare for food coma."
+    ]
+  },
+  {
+    "name": "Paneer Bhurji",
+    "mealType": "lunch",
+    "weight": "light",
+    "ingredients": ["paneer", "onion", "tomato", "green chili", "spices"],
+    "instructions": [
+      "Step 1: Crumble paneer like you're shredding your regrets.",
+      "Step 2: Sauté onions and green chilies till they’re golden and mildly dangerous.",
+      "Step 3: Add chopped tomatoes and cook until they surrender.",
+      "Step 4: Add spices, then toss in the paneer. Stir like you mean it.",
+      "Step 5: Cook for 5 mins. Serve with toast, paratha, or solo confidence."
+    ]
+  },
+  {
+    "name": "Dal Tadka",
+    "mealType": "dinner",
+    "weight": "light",
+    "ingredients": ["toor dal", "garlic", "onion", "tomato", "cumin", "ghee"],
+    "instructions": [
+      "Step 1: Pressure cook toor dal with turmeric until it's soft and squishy (like your feelings).",
+      "Step 2: In another pan, heat ghee. Add cumin and let it crackle like a gossip session.",
+      "Step 3: Toss in chopped garlic, then onion. Sauté till golden and glorious.",
+      "Step 4: Add tomatoes and cook till mushy. Spice it with salt, chili, and drama.",
+      "Step 5: Pour the tadka into the dal. Stir gently like it’s a love story.",
+      "Step 6: Simmer for 5 mins and serve with rice or roti. Optional: top with ghee and gratitude."
+    ]
+  },
+  {
+    "name": "Chole Bhature",
+    "mealType": "lunch",
+    "weight": "heavy",
+    "ingredients": ["chickpeas", "maida", "onion", "tomato", "ginger", "garlic", "spices"],
+    "instructions": [
+      "Step 1: Soak chickpeas overnight — this is non-negotiable prep.",
+      "Step 2: Pressure cook chickpeas till they're soft but not offended.",
+      "Step 3: Make a rich gravy with sautéed onions, tomatoes, ginger, garlic, and a riot of spices.",
+      "Step 4: Let the chickpeas soak in the masala drama and simmer.",
+      "Step 5: Make dough with maida, let it rest like a lazy Sunday.",
+      "Step 6: Roll into bhature, deep fry till they puff like your ego when it works.",
+      "Step 7: Plate them together and prepare for worship."
+    ]
+  },
+  {
+     "name": "Khichdi",
+     "mealType": "lunch",
+     "weight": "light",
+     "ingredients": ["rice", "moong dal", "ghee", "turmeric", "vegetables"],
+     "instructions": [
+       "Step 1: Rinse rice and dal like you’re washing off bad vibes.",
+       "Step 2: Add chopped veggies if you want to pretend it’s healthy.",
+       "Step 3: Toss it all in a pressure cooker with salt, turmeric, and water.",
+       "Step 4: Pressure cook till everything blends like a nostalgic lullaby.",
+       "Step 5: Add a spoonful of ghee and stir like you care.",
+       "Step 6: Serve hot with papad or pickle and call it soul food."
+     ]
+  },
+  {
+      "name": "Palak Paneer",
+      "mealType": "lunch",
+      "weight": "heavy",
+      "ingredients": ["paneer", "spinach", "onion", "tomato", "garlic"],
+      "instructions": [
+        "Step 1: Blanch spinach, then blend it into smooth green silk.",
+        "Step 2: Sauté onions and garlic until golden and fragrant.",
+        "Step 3: Add tomatoes and cook till they collapse into sauciness.",
+        "Step 4: Mix in the spinach puree, add spices, stir gently.",
+        "Step 5: Add paneer cubes like plot twists. Simmer.",
+        "Step 6: Serve hot with naan or rice and deep personal satisfaction."
+    ]
+  },
+   {
+     "name": "Lemon Rice",
+     "mealType": "lunch",
+     "weight": "light",
+     "ingredients": ["rice", "mustard seeds", "curry leaves", "lemon", "chilies"],
+     "instructions": [
+       "Step 1: Cook rice and let it cool — clingy rice is not cool.",
+       "Step 2: Heat oil, crackle mustard seeds, toss in curry leaves and chilies.",
+       "Step 3: Add turmeric and salt — make it golden.",
+       "Step 4: Mix in the rice and stir like a pro.",
+       "Step 5: Squeeze fresh lemon juice generously.",
+       "Step 6: Serve with chutney or alone like a boss."
+     ]
+    },
+    {
+      "name": "Aloo Gobi",
+      "mealType": "lunch",
+      "weight": "light",
+      "ingredients": ["potato", "cauliflower", "spices", "onion", "tomato"],
+      "instructions": [
+        "Step 1: Chop potato and gobi into bite-sized confidence.",
+        "Step 2: Sauté onions and tomatoes until they merge like BFFs.",
+        "Step 3: Add spices and then the veggies. Stir with love.",
+        "Step 4: Cover and cook till tender but not a mushy betrayal.",
+        "Step 5: Garnish with coriander and serve with roti or nostalgia."
+     ]
+    },
+    {
+      "name": "Chicken Biryani",
+      "mealType": "dinner",
+      "weight": "heavy",
+      "ingredients": ["chicken", "rice", "yogurt", "onion", "tomato", "spices", "mint"],
+      "instructions": [
+        "Step 1: Marinate chicken in yogurt, spices, and mint for at least an hour — longer if you're patient.",
+        "Step 2: Fry onions until golden and crispy like caramelized dreams.",
+        "Step 3: Partially cook basmati rice with whole spices and set aside.",
+        "Step 4: Cook the marinated chicken in a pot till almost done.",
+        "Step 5: Layer the rice over chicken, sprinkle fried onions, mint, and ghee.",
+        "Step 6: Cover and cook on low (dum) for 20 minutes. Don't peek!",
+        "Step 7: Fluff gently and serve like royalty. Accept compliments humbly (or not)."
+     ]
+  },
+  {
+      "name": "Jeera Rice",
+      "mealType": "dinner",
+      "weight": "light",
+      "ingredients": ["rice", "cumin seeds", "ghee", "salt"],
+      "instructions": [
+        "Step 1: Cook rice separately till fluffy but not mushy.",
+        "Step 2: Heat ghee in a pan, add cumin seeds and let them sizzle with excitement.",
+        "Step 3: Toss in the cooked rice, add salt to taste, and stir gently.",
+        "Step 4: Serve with dal, curry, or as-is with zero guilt."
+     ]
+  },
+  {
+      "name": "Matar Paneer",
+      "mealType": "dinner",
+      "weight": "heavy",
+      "ingredients": ["paneer", "peas", "onion", "tomato", "spices"],
+      "instructions": [
+        "Step 1: Sauté onions till golden, then add tomatoes and cook into a smooth base.",
+        "Step 2: Blend the mixture for a silky gravy or keep it chunky for rustic vibes.",
+        "Step 3: Add peas and cook till they're soft but sassy.",
+        "Step 4: Add paneer cubes and simmer in the gravy for 5–10 mins.",
+        "Step 5: Serve hot with roti, naan, or your soulmate."
+     ]
+  },
+  {
+      "name": "Tandoori Chicken",
+      "mealType": "dinner",
+      "weight": "heavy",
+      "ingredients": ["chicken", "yogurt", "spices", "lemon juice", "garlic"],
+      "instructions": [
+        "Step 1: Slash chicken pieces and marinate with yogurt, lemon juice, garlic, and tandoori masala.",
+        "Step 2: Let it sit for hours — overnight if you're loyal.",
+        "Step 3: Grill or bake till the outside is charred and the inside is juicy.",
+        "Step 4: Serve with mint chutney and a side of swagger."
+     ]
+  },
+  {
+      "name": "Bhindi Masala",
+      "mealType": "dinner",
+      "weight": "light",
+      "ingredients": ["ladyfinger", "onion", "tomato", "spices"],
+      "instructions": [
+        "Step 1: Wash and dry bhindi thoroughly. Slime is a crime.",
+        "Step 2: Chop bhindi, onion, and tomatoes like you mean business.",
+        "Step 3: Sauté onions and bhindi in oil until crisp, not clingy.",
+        "Step 4: Add tomatoes and spices. Cook till flavors fall in love.",
+        "Step 5: Serve hot with phulka or solo for bhindi fans only."
+     ]
+  },
+  {"name": "Mixed Vegetable Curry",
+        "mealType": "dinner",
+        "weight": "light",
+        "ingredients": ["carrot", "beans", "peas", "potato", "onion", "spices"],
+        "instructions": [
+            "Step 1: Chop all vegetables into small, equal-sized responsibility cubes.",
+            "Step 2: Heat oil and sauté onions until they’re golden and slightly crispy.",
+            "Step 3: Add all the vegetables and stir them into a colorful chaos.",
+            "Step 4: Add your favorite spices, cover with a lid, and let it cook slowly.",
+            "Step 5: Stir occasionally and cook until everything is soft and well-behaved.",
+            "Step 6: Serve hot with roti, rice, or applause."
+        ]
+    },
+    {
+        "name": "Egg Curry",
+        "mealType": "dinner",
+        "weight": "heavy",
+        "ingredients": ["egg", "onion", "tomato", "spices", "garlic", "ginger"],
+        "instructions": [
+            "Step 1: Boil eggs and peel them like you’re revealing hidden treasure.",
+            "Step 2: Sauté chopped onions, garlic, and ginger until golden and aromatic.",
+            "Step 3: Add chopped tomatoes and spices. Cook until it becomes a rich, thick gravy.",
+            "Step 4: Gently drop in the eggs and let them soak in the spicy luxury.",
+            "Step 5: Simmer for 10 minutes. Garnish with coriander and serve with rice or paratha."
+        ]
+    },
+    {
+        "name": "Kadhi Pakora",
+        "mealType": "dinner",
+        "weight": "light",
+        "ingredients": ["besan", "curd", "spices", "onion", "oil"],
+        "instructions": [
+            "Step 1: Make a smooth batter with besan and curd — no lumps, no drama.",
+            "Step 2: Add spices and water to form kadhi consistency. Set aside.",
+            "Step 3: Mix besan, chopped onions, and spices for pakora batter.",
+            "Step 4: Deep fry spoonfuls of the batter till crispy and irresistible.",
+            "Step 5: Simmer the kadhi, then drop the pakoras in like VIP guests.",
+            "Step 6: Cook for 10 minutes and serve with steamed rice and smiles."
+        ]
+    },
+    {
+        "name": "Butter Chicken",
+        "mealType": "dinner",
+        "weight": "heavy",
+        "ingredients": ["chicken", "butter", "cream", "tomato", "spices"],
+        "instructions": [
+            "Step 1: Marinate chicken in yogurt, chili, garlic, and lemon. Let it rest like royalty.",
+            "Step 2: Cook the chicken till slightly charred and smoky.",
+            "Step 3: Blend tomatoes into a silky base and cook with butter and cream.",
+            "Step 4: Add the cooked chicken, let it simmer till the gravy hugs it tight.",
+            "Step 5: Serve with naan, rice, or straight from the pot with a spoon."
+        ]
+    },
+    {
+        "name": "Curd Rice",
+        "mealType": "lunch",
+        "weight": "light",
+        "ingredients": ["rice", "curd", "mustard seeds", "ginger", "chili"],
+        "instructions": [
+            "Step 1: Cook and cool the rice — this dish doesn’t like heat.",
+            "Step 2: Mix rice with fresh curd until creamy and smooth.",
+            "Step 3: Heat oil and crackle mustard seeds, curry leaves, ginger, and chili.",
+            "Step 4: Pour the tempering over the rice and mix like a lullaby.",
+            "Step 5: Chill or serve at room temp. Pairs best with hot weather and peace."
+        ]
+    },
+    {
+        "name": "Samosa",
+        "mealType": "snack",
+        "weight": "heavy",
+        "ingredients": ["maida", "potato", "peas", "spices", "oil"],
+        "instructions": [
+            "Step 1: Knead maida into a firm dough and let it rest — like a drama queen.",
+            "Step 2: Boil and mash potatoes, mix in peas and spices till tasty chaos.",
+            "Step 3: Roll the dough, cut into halves, and shape into cones.",
+            "Step 4: Fill with spicy potato mix and seal like a delicious secret.",
+            "Step 5: Deep fry till golden and crispy. Serve hot with chutney and judgment."
+        ]
+    },
+    {
+        "name": "Batata Vada",
+        "mealType": "snack",
+        "weight": "heavy",
+        "ingredients": ["potato", "besan", "mustard seeds", "green chili", "oil"],
+        "instructions": [
+            "Step 1: Boil and mash potatoes with mustard seeds, green chili, and spices.",
+            "Step 2: Make round balls and dip in thick besan batter.",
+            "Step 3: Heat oil and deep fry the vadas till golden brown.",
+            "Step 4: Serve with pav and chutney or enjoy solo like a spicy snack star."
+        ]
+    },
+    {
+        "name": "Dhokla",
+        "mealType": "snack",
+        "weight": "light",
+        "ingredients": ["besan", "lemon juice", "mustard seeds", "green chili"],
+        "instructions": [
+            "Step 1: Mix besan, lemon juice, water, and a pinch of ENO. Stir like a wizard.",
+            "Step 2: Pour into greased plate and steam for 15–20 minutes.",
+            "Step 3: Heat oil, crackle mustard seeds and green chili for the tempering.",
+            "Step 4: Pour tempering over the dhokla and cut into squares.",
+            "Step 5: Serve fluffy and warm with green chutney."
+        ]
+    },
+    {
+        "name": "Masala Corn",
+        "mealType": "snack",
+        "weight": "light",
+        "ingredients": ["corn", "butter", "lemon juice", "spices"],
+        "instructions": [
+            "Step 1: Boil or steam corn kernels until soft.",
+            "Step 2: Mix with melted butter, lemon juice, and masala of your choice.",
+            "Step 3: Stir well and serve in a cup like street-side comfort food."
+        ]
+    },
+    {
+        "name": "Sev Puri",
+        "mealType": "snack",
+        "weight": "light",
+        "ingredients": ["puri", "potato", "onion", "sev", "chutney"],
+        "instructions": [
+            "Step 1: Place crispy puris on a plate like edible bowls.",
+            "Step 2: Fill with mashed potato, chopped onion, and chutneys.",
+            "Step 3: Top with sev and sprinkle chaat masala.",
+            "Step 4: Serve immediately before it turns into soggy tragedy."
+        ]
+    },
+    {
+        "name": "Stuffed Capsicum",
+        "mealType": "lunch",
+        "weight": "heavy",
+        "ingredients": ["capsicum", "potato", "onion", "spices", "cheese"],
+        "instructions": [
+            "Step 1: Cut tops off capsicums and scoop out seeds like you're hiding treasure.",
+            "Step 2: Stuff with mashed potato, onion, spices, and cheese.",
+            "Step 3: Bake or shallow fry till capsicums soften and cheese melts.",
+            "Step 4: Serve hot with roti or rice and applause."
+        ]
+    },
+    {
+        "name": "Aloo Paratha",
+        "mealType": "lunch",
+        "weight": "heavy",
+        "ingredients": ["wheat flour", "potato", "green chili", "spices", "ghee"],
+        "instructions": [
+            "Step 1: Knead soft dough using wheat flour and water.",
+            "Step 2: Boil and mash potatoes with spices and green chilies.",
+            "Step 3: Roll dough balls, stuff with potato mix, and seal.",
+            "Step 4: Flatten and roast on tawa with ghee until golden.",
+            "Step 5: Serve with curd, pickle, and ego boost."
+        ]
+    },
+    {
+        "name": "Curd Rice",
+        "mealType": "lunch",
+        "weight": "light",
+        "ingredients": ["rice", "curd", "mustard seeds", "ginger", "chili"],
+        "instructions": [
+            "Step 1: Cook and cool rice — no one likes hot curd.",
+            "Step 2: Mix rice with fresh curd until creamy.",
+            "Step 3: Temper mustard seeds, ginger, and chili in oil.",
+            "Step 4: Pour over curd rice and stir with love.",
+            "Step 5: Serve chilled or room temp — zen in a bowl."
+        ]
+    },
+    {
+        "name": "Litti Chokha",
+        "mealType": "lunch",
+        "weight": "heavy",
+        "ingredients": ["wheat flour", "sattu", "brinjal", "potato", "tomato", "spices"],
+        "instructions": [
+            "Step 1: Knead dough and prepare sattu filling with mustard oil and spices.",
+            "Step 2: Shape and stuff the littis, then bake or roast them.",
+            "Step 3: For chokha, roast brinjal, tomato, and potato, then mash with spices.",
+            "Step 4: Serve litti with chokha and a spoonful of ghee on top."
+        ]
+    },
+    {
+        "name": "Vegetable Korma",
+        "mealType": "lunch",
+        "weight": "heavy",
+        "ingredients": ["mixed vegetables", "cashew", "cream", "spices", "onion", "tomato"],
+        "instructions": [
+            "Step 1: Boil veggies till they're polite but firm.",
+            "Step 2: Grind cashews with onion and tomato to a creamy paste.",
+            "Step 3: Cook the paste with spices, add cream and veggies.",
+            "Step 4: Simmer till it’s rich and luxurious. Serve with naan or rice."
+        ]
+    }
+  
+]
