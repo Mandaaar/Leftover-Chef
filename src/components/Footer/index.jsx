@@ -62,7 +62,8 @@ const Footer = () => {
             {/* Copyright with Sweet Touch */}
             <div className="mt-8 pt-6 border-t border-white/20">
               <p className="text-purple-200 text-sm">
-                © 202 Leftover Chef. Made with ❤️ and a touch of Indian sweetness! 🍮
+                © 2025 Leftover Chef. 
+                Made with ❤️ and a touch of Indian sweetness! 🍮
               </p>
             </div>
           </div>
