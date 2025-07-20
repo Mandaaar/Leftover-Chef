@@ -21,22 +21,8 @@ const Hero = () => {
       {/* Main Content */}
       <div className="relative w-full mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16 py-8 sm:py-16 z-10">
         <div className="text-center">
-          {/* Animated Icons */}
-          <div className="flex justify-center mb-6">
-            <div className="relative">
-              <div className="flex items-center gap-2 text-4xl sm:text-6xl animate-pulse">
-                🍳✨🥘
-              </div>
-              <div className="absolute -top-2 -right-2">
-                <Sparkles className="w-6 h-6 sm:w-8 sm:h-8 text-yellow-400 animate-spin" />
-              </div>
-              {/* Glowing effect */}
-              <div className="absolute inset-0 blur-xl opacity-30 text-4xl sm:text-6xl">
-                🍳✨🥘
-              </div>
-            </div>
-          </div>
           
+
           {/* Main Heading with Glow Effect */}
           <div className="relative mb-4 sm:mb-6">
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black text-white mb-2 drop-shadow-2xl animate-fade-in">
@@ -65,7 +51,7 @@ const Hero = () => {
               <span className="text-pink-300">"We can't cook like mom, but we can definitely</span>
               <span className="text-orange-400 font-bold"> burn like dad!</span>
               <span className="text-pink-300">"</span>
-              <span className="ml-2 text-2xl">🔥👨‍🍳</span>
+              <span className="ml-2 text-2xl">🔥</span>
             </p>
           </div>
           
