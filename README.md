@@ -1,6 +1,10 @@
 # 🍳 Leftover Chef - For Every Desi Kid Struggling in Videsh! 🥺
 
-> *"We can't cook like mom, but we can definitely burn like dad!"* 🔥👨‍🍳
+> *"We can't cook like mom, but we can definitely burn like dad!"* 🔥
+
+## 🌐 **[🔥 TRY IT LIVE - Your Videsh Survival Starts Here! 🔥](https://leftover-chef.netlify.app/)**
+
+*Go ahead, open it. We dare you not to get emotional looking at that butter chicken background.* 😭
 
 ## 😭 The Videsh Reality Check
 
